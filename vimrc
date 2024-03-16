@@ -1,0 +1,10 @@
+execute pathogen#infect()
+set number
+syntax on
+set smartindent
+set hlsearch
+set incsearch
+colorscheme deus 
+let g:airline_theme='google_dark'
+set list
+set listchars+=space:.
