@@ -114,3 +114,5 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+# oh-my-posh setup
+eval "$(oh-my-posh init bash --config ~/.cache/oh-my-posh/themes/tokio.omp.json)"

@@ -1,0 +1,9 @@
+curl -s https://ohmyposh.dev/install.sh | bash -s -- -d powerline/
+⚠️  Installation directory powerline/ is not in your $PATH
+
+ℹ️  Installing oh-my-posh for linux-arm64 in powerline/
+⬇️  Downloading oh-my-posh from https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-arm64
+🎨 Installing oh-my-posh themes in /home/alexandre/.cache/oh-my-posh/themes
+
+🚀 Installation complete.
+
